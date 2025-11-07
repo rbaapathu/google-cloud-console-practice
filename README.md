@@ -27,11 +27,11 @@ It includes screenshots and notes from practice exercises involving **BigQuery**
 - Cloud Storage
 - Compute Engine
 - SQL
-
-## 📁 Repository Contents
-- `/screenshots` — visual proof of tasks completed  
-- `/notes` — step-by-step explanations of each exercise  
-- `/queries` — sample SQL queries executed in BigQuery  
+- snowflake
+- tableau
+- qwiklabs
+- pipelines
+- looker studio
 
 ## 🚀 Learning Outcome
 This practice enhanced my understanding of **cloud-based data operations**, **infrastructure setup**, and **resource management** using Google Cloud Console — preparing me for real-world applications in cloud computing and data analytics.
